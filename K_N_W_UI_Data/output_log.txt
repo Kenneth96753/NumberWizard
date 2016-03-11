@@ -1,0 +1,21 @@
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8280 (ID=0x9836)
+    Vendor:   ATI
+    VRAM:     497 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\paiac_000\Desktop\kenneth-number-wizard-ui\K_N_W_UI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\paiac_000\Desktop\kenneth-number-wizard-ui\K_N_W_UI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\paiac_000\Desktop\kenneth-number-wizard-ui\K_N_W_UI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\paiac_000\Desktop\kenneth-number-wizard-ui\K_N_W_UI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\paiac_000\Desktop\kenneth-number-wizard-ui\K_N_W_UI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\paiac_000\Desktop\kenneth-number-wizard-ui\K_N_W_UI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.806 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: C:\Users\paiac_000\Desktop\kenneth-number-wizard-ui\K_N_W_UI_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\paiac_000\Desktop\kenneth-number-wizard-ui\K_N_W_UI_Data\Managed\System.dll (this message is harmless)
